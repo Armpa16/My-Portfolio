@@ -44,10 +44,10 @@ export default function Skills() {
     { icon: <SiGithub size={50} className="text-gray-800" />, label: "GitHub" },
     { icon: <SiPostman size={50} className="text-orange-500" />, label: "Postman" },
     { icon: <SiFigma size={50} className="text-pink-500" />, label: "Figma" },
-    { icon: <SiJupyter size={50} className="text-orange-400]" />, label: "Jupyter Notebook" },
-    { icon: <SiXampp size={50} className="text-orange-400]" />, label: "XAMPP" },
-    { icon: <SiRender size={50} className="text-gray-800]" />, label: "Render" },
-    { icon: <SiRailway size={50} className="text-gray-800]" />, label: "Railway" },
+    { icon: <SiJupyter size={50} className="text-orange-400" />, label: "Jupyter Notebook" },
+    { icon: <SiXampp size={50} className="text-orange-400" />, label: "XAMPP" },
+    { icon: <SiRender size={50} className="text-gray-800" />, label: "Render" },
+    { icon: <SiRailway size={50} className="text-gray-800" />, label: "Railway" },
   ];
 
   return (
