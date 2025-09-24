@@ -182,8 +182,8 @@ export default function Projects() {
     WebDev: [
       {
         year: "2025",
-        title: "ระบบแนะนําอาหารทีเหมาะสมสําหรับผู้สูงอายุ",
-        desc: "ระบบแนะนําอาหารทีเหมาะสมสําหรับผู้สูงอายุ โดยใช้ Machine Learning วิเคราะห์ข้อมูลสุขภาพและนําเสนอเมนูอาหารให้เหมาะสมต่อสุขภาพและโภชนาการเฉพาะบุคคล",
+        title: "ระบบแนะนําอาหารที่เหมาะสมสําหรับผู้สูงอายุ",
+        desc: "ระบบแนะนําอาหารที่เหมาะสมสําหรับผู้สูงอายุ โดยใช้ Machine Learning วิเคราะห์ข้อมูลสุขภาพและนําเสนอเมนูอาหารให้เหมาะสมต่อสุขภาพและโภชนาการเฉพาะบุคคล",
         img: "img/FoodRecomendSystem.jpg",
         link: "https://github.com/Armpa16/Food-Recommendation-System-By-Machine-Learning",
         tech: [

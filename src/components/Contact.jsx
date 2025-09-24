@@ -26,7 +26,7 @@ export default function Contact() {
         {/* Email & Social Links */}
         <div className="flex flex-col items-center gap-8">
           <a
-            href="mailto:panudech.susan@gmail.com"
+            href="mailto:panudech1419@gmail.com"
             className="inline-flex items-center gap-3 bg-white hover:bg-gray-50 text-gray-800 font-semibold py-3 px-6 rounded-xl shadow-md hover:shadow-lg transition-all duration-300 border border-gray-200 transform hover:-translate-y-1"
           >
             <FaEnvelope className="text-indigo-500" size={20} />
